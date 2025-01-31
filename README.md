@@ -5,7 +5,6 @@
 
 A modern expense tracking web application built with Angular to help users manage their finances efficiently. Track expenses, visualize spending patterns, and manage budgets seamlessly.
 
-![ExpenseTracker Preview](https://github.com/Maurux01/expensetracker-angular/blob/main/screenshot.png?raw=true)
 
 
 
